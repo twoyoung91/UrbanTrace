@@ -5,6 +5,9 @@ Identifying detailed urban change can help us better understand urban transforma
 We will publish the first version of UrbanTrace after our manuscript is published.
 
 You can find example dataset from UrbanTrace in below link:
+
 United States Southeast Cities Building Footprint (BBOX) 2020:https://gofile.me/7cXgV/n8QTLrGgB
+
 United States Southeast Cities Building Footprint (BBOX) 2015:https://gofile.me/7cXgV/MWHTxrOBU
+
 United States Southeast Cities Building Footprint (BBOX) 2010:https://gofile.me/7cXgV/WDA5GyXfr
