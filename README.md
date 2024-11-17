@@ -10,3 +10,5 @@ United States Southeast Cities Building Footprint (BBOX) 2020:https://gofile.me/
 United States Southeast Cities Building Footprint (BBOX) 2015:https://gofile.me/7cXgV/MWHTxrOBU
 
 United States Southeast Cities Building Footprint (BBOX) 2010:https://gofile.me/7cXgV/WDA5GyXfr
+
+The files here are the prototypes for our QGIS plugin. If you have questions about our training process, please email us at yangyang@unc.edu.
