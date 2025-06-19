@@ -6,19 +6,14 @@ Created on Tue Oct 29 13:41:36 2024
 """
 
 # mainPlugin.py
-
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 29 13:41:36 2024
-@author: Yang Yang
-"""
 
+#load the necessary libraries
 from qgis.PyQt.QtGui import QIcon
 from qgis.PyQt.QtWidgets import QAction, QFileDialog, QMessageBox
 from qgis.core import QgsProject, QgsVectorLayer
 from .dialog import YoloPredDialog
 import os
-from ultralytics import YOLO
 import rasterio
 import numpy as np
 import pandas as pd
@@ -27,6 +22,9 @@ import geopandas as gpd
 from itertools import product
 from shapely.geometry import Polygon
 import torch
+
+#load submodules
+import detection
 
 class urbanTrace:
     def __init__(self, iface):
