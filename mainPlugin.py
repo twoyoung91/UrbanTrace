@@ -24,7 +24,7 @@ from shapely.geometry import Polygon
 import torch
 
 #load submodules
-import detection
+from detection import detection
 
 class urbanTrace:
     def __init__(self, iface):
